@@ -1,6 +1,6 @@
 'use strict';
 
-/* global shoppingList, $ */
+/* global shoppingList, Item, $ */
 
 $(document).ready(function() {
   shoppingList.bindEventListeners();
